@@ -1,1 +1,1 @@
-Put your data in that folder under the name `train.csv` and `test.csv`.
+Put your data in this folder under the name `train.csv` and `test.csv`.
