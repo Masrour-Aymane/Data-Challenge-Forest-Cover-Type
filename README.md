@@ -76,7 +76,7 @@ The table below summarizes the performance of each model based on weighted metri
 | Enhanced MetaLearner (RF on curated) | 0.9417    | 0.9418 | 0.9417   | 5000    | Curated          |
 | Voting Classifier (CatBoost & RF)    | 0.9300    | 0.9300 | 0.9300   | 20000   | Initial          |
 | Enhanced MetaLearner (CatBoost & RF) | 0.9884    | 0.9884 | 0.9884   | 5000    | Curated          |
-| Final Model                          | 0.9448    | 0.9450 | 0.9448   | 5000    | Curated + Full   |
+| Final Model                          | 0.9448    | 0.9450 | 0.9448   | 5000    | Curated + Initial   |
 
 ## Authors
 
