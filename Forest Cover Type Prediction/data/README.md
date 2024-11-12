@@ -1,1 +1,0 @@
-Put your data in that folder under the name `train.csv` and `test.csv`.
