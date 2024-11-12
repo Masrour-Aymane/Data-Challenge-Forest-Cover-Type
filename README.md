@@ -1,6 +1,6 @@
 # Forest Cover Type Prediction
 
-This project aims to predict forest cover types based on topographical and environmental variables using machine learning. The primary goal is to accurately classify vegetation types within forested areas by leveraging a variety of machine learning models, with special emphasis on feature engineering, model selection, and hyperparameter optimization.
+This project aims to predict forest cover types based on topographical and environmental variables using machine learning. This is a *Classification problem on unbalanced dataset* where the primary goal is to accurately classify vegetation types within forested areas by leveraging a variety of machine learning models, with special emphasis on feature engineering, model selection, and hyperparameter optimization. The evaluation metric is the *weighted F1-score*.
 
 ## Project Overview
 
