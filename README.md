@@ -56,6 +56,7 @@ To install all dependencies, use: pip install -r requirements.txt
 
 2. **Model Training and Evaluation**:
    - Open `Data Challenge - Forest Cover Type.ipynb` and lunch code in section final model
+   - (*update* : add the following imports) `from sklearn.metrics import classification_report, confusion_matrix, f1_score`, `import xgboost as xgb`
 
 
 ## Model Performance
